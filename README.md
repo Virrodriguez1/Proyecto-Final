@@ -43,6 +43,8 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Authors
 - Virginia Rodriguez
+- Valentina Rivarola
+- Romeo Valdomero
 
 ## Acknowledgments
 - Thanks to the Programming III course staff for providing the guidelines and requirements for this project.
